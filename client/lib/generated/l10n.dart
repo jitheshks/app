@@ -17,6 +17,12 @@ class S {
 
   static S current;
 
+
+
+
+
+  
+
   static const AppLocalizationDelegate delegate = AppLocalizationDelegate();
 
   static Future<S> load(Locale locale) {
